@@ -1,8 +1,10 @@
-<h1 align="center">Hey, I'm Lakshay 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Lakshay%20Varshney&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=DevOps%20%E2%80%A2%20DevSecOps%20%E2%80%A2%20AI-augmented%20CI%2FCD&descAlignY=58&descSize=18" />
+</p>
 
 <p align="center">
   <a href="https://codebylakshay-ai.github.io/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=640&lines=DevOps+Engineer+%40+MargBooks;DevSecOps+%7C+AI-augmented+CI%2FCD;Keeping+70%2B+Linux+servers+healthy;Deploys+in+under+30+minutes+%F0%9F%9A%80" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=45&lines=%24+whoami+%E2%86%92+DevOps+Engineer+%40+MargBooks+%F0%9F%9B%A0%EF%B8%8F;Shipping+to+prod+in+under+30+minutes+%F0%9F%9A%80;Keeping+70%2B+Linux+servers+healthy+%F0%9F%90%A7;AI+agents+that+review+PRs+%26+triage+alerts+%F0%9F%A4%96;Jenkins+%E2%80%A2+Docker+%E2%80%A2+AWS+%E2%80%A2+Prometheus+%E2%80%A2+Grafana" alt="Typing SVG" />
   </a>
 </p>
 
@@ -33,6 +35,13 @@ status:      🟢 open to DevOps & DevSecOps roles
 
 ## 🚀 The pipeline I run
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=1600&pause=400&color=3FB950&background=0D111700&width=620&height=190&lines=%5Bdeploy-pipeline%5D+Jenkins+Shared+Library;%E2%9C%94+Checkout+..........+git+%C2%B7+branch+%26+PR;%F0%9F%A4%96+AI+review+.........+Claude+Code+%2B+PR-Agent;%E2%9C%94+Build+%26+QA+........+docker+%C2%B7+QA+pipeline;%F0%9F%A4%96+Config+check+.......+appsettings+per+env;%E2%9C%94+Deploy+............+rollback+armed;%F0%9F%91%80+Monitor+...........+Prometheus+%C2%B7+Grafana+MCP;Finished%3A+SUCCESS+%E2%9C%85+%C2%B7+deploy+time+%3C+30+min&multiline=true&repeat=true" alt="Animated pipeline" />
+</p>
+
+<details>
+<summary><b>📜 View the full pipeline log</b></summary>
+
 ```text
 [deploy-pipeline] · Jenkins Shared Library · Prod / Pre-Prod / UAT
  ├─ ✔ Checkout             git · branch & PR
@@ -44,6 +53,8 @@ status:      🟢 open to DevOps & DevSecOps roles
 Finished: SUCCESS  ·  deploy time < 30 min
 ```
 
+</details>
+
 ## 📈 Impact
 
 | 🖥️ 70+ | ⚡ 60–70% | 🧑‍💻 0 | 👥 50,000+ |
@@ -51,6 +62,12 @@ Finished: SUCCESS  ·  deploy time < 30 min
 | production Linux servers managed | faster deployments with the Shared Library | manual deployments after the pipeline rollout | clients on the platform I keep running |
 
 ## 🛠️ Toolchain
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,git,github,jenkins,docker,kubernetes,aws,terraform,nginx,prometheus,grafana&perline=12" />
+  </a>
+</p>
 
 **CI/CD & Version Control**
 <p>
@@ -107,12 +124,26 @@ Finished: SUCCESS  ·  deploy time < 30 min
 ## 📊 GitHub stats
 
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=codebylakshay-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</p>
+
+<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=codebylakshay-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=codebylakshay-ai&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codebylakshay-ai&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/codebylakshay-ai/codebylakshay-ai/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/codebylakshay-ai/codebylakshay-ai/output/github-snake.svg" />
+    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/codebylakshay-ai/codebylakshay-ai/output/github-snake.svg" />
+  </picture>
 </p>
 
 ## 🎓 Education
@@ -131,3 +162,7 @@ I'm looking for **DevOps & DevSecOps** roles where CI/CD, monitoring and AI tool
 </p>
 
 <p align="center"><i>"If it's manual twice, it's a pipeline the third time."</i></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer" />
+</p>
