@@ -124,10 +124,6 @@ Finished: SUCCESS  ·  deploy time < 30 min
 ## 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=codebylakshay-ai&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-</p>
-
-<p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=codebylakshay-ai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
   <img height="165" src="https://streak-stats.demolab.com?user=codebylakshay-ai&theme=tokyonight&hide_border=true" />
 </p>
